@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>TP4-CSS Gride</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="box box1">
+
+            <h2>Réseau et sécurité informatique</h2>
+            <center><img src="rsi.jpeg" alt="Réseau et sécurité informatique" width="380" height="240"></center>
+            <P>C'est une domaine trés demandés au monde de informatique .</P>
+            <button>En savoir plus</button>
+
+        </div>
+        <div class="box box2">
+
+            <h2>Hacking systéme</h2>
+            <center><img src="haker.jpeg" alt="Hacking systéme" width="380" height="240"></center>
+            <P>Le hacking systéme signifie essayer d'accéder,manipuler ou tester un systéme
+                informatique</P>
+            <button>En savoir plus</button>
+
+        </div>
+        <div class="box box3">
+
+            <h2>Main Robotique</h2>
+            <center><img src="ia.jpeg" alt="Main Robotique" width="380" height="240"></center>
+            <p>Une main robotique est un dispositif technologique qui imite la main 
+                humaine pour saisir , manipuler ou interagir avec des objets</p>
+            <button>En savoir plus</button>
+
+        </div>
+        <div class="box box5">
+
+            <h2>Data sceince</h2>
+            <center><img src="data.jpeg" alt="Data sceince" width="380" height="240"></center>
+            <p>Data sceince est branche de l'informatique qui consiste 
+                a l'analyser  des données pour extraire des informatique</p>
+            <button>En savoir plus</button>
+
+        </div>
+        <div class="box box6">
+            <h2>Programming Web</h2>
+            <center><img src="web.jpeg" alt="Programming Web" width="380" height="240"></center>
+            <P>Un programme web est un ensemble de codes et instruction utilisée pour
+             créer des sites web ou des applications web sur internet</P>
+             <button>En savoir plus</button>
+
+        </div>
+    </div>
+</body>
+
+</html>
